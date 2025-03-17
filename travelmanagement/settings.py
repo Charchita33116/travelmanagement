@@ -87,8 +87,8 @@ DATABASES = {
         "NAME": "travel",
         "USER": "postgres",
         "USER": "postgres",
-        "PASSWORD": "adminadmin",
-        "HOST": "database-1.crc2ucwuugqr.ap-south-1.rds.amazonaws.com",
+        "PASSWORD": "Chand1807#",
+        "HOST": "database-1.c1icc84oc7fq.us-east-1.rds.amazonaws.com",
         "PORT": "5432",
     }
 }
